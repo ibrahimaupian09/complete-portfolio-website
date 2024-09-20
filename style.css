@@ -4,9 +4,10 @@
     padding: 0;
     box-sizing: border-box;
 }
-/* html{
-
-} */
+html{
+    font-size: 10px;
+    scroll-behavior: smooth;
+}
 a{
     text-decoration: none;
 }
@@ -69,3 +70,4 @@ p{
 .brand h1 span{
     color: crimson;
 }
+
